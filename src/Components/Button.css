@@ -1,0 +1,38 @@
+.upwards, 
+.downwards { 
+	display: flex; 
+	justify-content: center; 
+} 
+
+.sideways { 
+	display: flex; 
+	justify-content: center; 
+} 
+
+.left, 
+.right { 
+	margin: 20px; 
+	padding: 20px; 
+	border: 0px solid; 
+	border-radius: 20px; 
+	border: 1px solid #e608f6; 
+	font-weight: bolder;
+	font-size: 15px;
+	color: #e608f6;;
+	background: #1e1e1e; 
+	
+	box-shadow: 0 0 20px 2px #0edfea;
+} 
+
+.up, 
+.down { 
+	padding: 20px; 
+	border: 0px solid; 
+	border-radius: 20px; 
+	border: 1px solid #e608f6;
+	color: #e608f6;;
+	background: #1e1e1e; 
+	box-shadow: 0 0 20px 2px #0edfea;
+}
+
+  
